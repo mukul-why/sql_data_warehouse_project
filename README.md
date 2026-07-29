@@ -42,4 +42,4 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ---
 ## 🌟 About Me
 
-Hello everyone, my name is **Mukul Rathore**. I’m an aspiring Data engineer, and this is my Data Warehouse project.
+Hello everyone, my name is **Mukul Rathore**. I’m an aspiring Data Analyst, and this is my Data Warehouse project.

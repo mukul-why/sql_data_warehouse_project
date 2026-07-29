@@ -95,4 +95,4 @@ Using the curated Gold Layer, perform business analysis to:
 ---
 ## 🌟 About Me
 
-Hello everyone, my name is **Mukul Rathore**. I’m an aspiring Data Analyst, and this is my Data Warehouse project.
+Hello everyone, my name is **Mukul Rathore**. I’m an aspiring Data Analyst, and this is my Data Warehouse and Analytics project.
